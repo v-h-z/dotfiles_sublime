@@ -46,6 +46,10 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+
 [user]
 	email = v_h@me.com
 	name = Victor Holl
+
+[pull]
+  rebase = false
