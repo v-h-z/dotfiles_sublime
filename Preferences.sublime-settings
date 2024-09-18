@@ -26,7 +26,13 @@
   "hot_exit": false,
   "ignored_packages":
   [
-    "Vintage"
+    "A File Icon",
+    "BracketHighlighter",
+    "Emmet",
+    "LSP",
+    "LSP-copilot",
+    "SublimeLinter",
+    "Vintage",
   ],
   "remember_open_files": false,
   "rulers":
@@ -38,5 +44,11 @@
   "trim_automatic_white_space": true,
   "trim_trailing_white_space_on_save": true,
   "use_tab_stops": true,
-  "word_wrap": false
+  "word_wrap": false,
+  "color_scheme": "Monokai Classic.sublime-color-scheme",
+  "theme": "Default.sublime-theme",
+  "font_size": 15,
+  "index_files": false,
+  "dark_theme": "Monokai Classic.sublime-theme",
+  "light_theme": "Monokai Pro.sublime-theme",
 }

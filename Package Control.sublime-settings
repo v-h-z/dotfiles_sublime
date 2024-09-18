@@ -5,15 +5,31 @@
     "AdvancedNewFile",
     "All Autocomplete",
     "Babel",
+    "BracketHighlighter",
     "Emmet",
     "ERB Snippets",
     "Git",
     "Latest Migration",
+    "LSP",
+    "LSP-copilot",
     "MagicPython",
+    "Monokai++",
     "Package Control",
+    "Ruby Slim",
     "SCSS",
     "SublimeLinter",
     "SublimeLinter-rubocop",
-    "BracketHighlighter"
-  ]
+    "SublimeLinter-ruby",
+    "Theme - Monokai Pro",
+  ],
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+    "A File Icon",
+    "BracketHighlighter",
+    "Emmet",
+    "LSP",
+    "LSP-copilot",
+    "SublimeLinter",
+  ],
 }
